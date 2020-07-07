@@ -15,7 +15,7 @@ def main():
     url = "http://api.openweathermap.org/data/2.5/weather?"
     params = {
     "q" : {city},
-    "appid" : {"ca0a4e734aca7b656877630c3bdb5d91"},
+    "appid" : {"ca**************************91"},
     "units" : {"metric"}
     }
 
